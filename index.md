@@ -4,7 +4,7 @@ title: "Trang chính"
 ---
 
 # Xin chào!
-
+{{ site.description }}
 Đây là trang chủ của mình.  
 Tạo thêm dòng  
 Đọc thêm về GitHub  
