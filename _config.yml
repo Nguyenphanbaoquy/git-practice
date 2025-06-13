@@ -1,3 +1,6 @@
 title: "Thực hành tạo trang web"
 description: "Thực hành tạo trang web"
 theme: minima
+collections:
+ posts:
+  output: true
