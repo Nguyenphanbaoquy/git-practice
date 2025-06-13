@@ -5,6 +5,6 @@ title: "Trang chính"
 
 # Xin chào!
 
-Tạo thêm dòng  
-Đọc thêm về GitHub  
-Học GitHub Pages từng bước.
+Đây là những gì học và làm được
+Bạn sẽ làm tốt được
+
