@@ -7,4 +7,4 @@ title: "Trang chính"
 
 Chào mừng đến với trang web của mình.  
 Đây là nơi mình học về GitHub Pages. 
-Đây là nơi mình làm mẫu về bài tập First Day.
+Đây là nơi mình làm mẫu về bài tập First Day.  
