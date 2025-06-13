@@ -1,10 +1,9 @@
 ---
-layout: home
+layout: page
 title: "Trang chính"
 ---
 
 # Xin chào!
 
-Đây là những gì học và làm được
-Bạn sẽ làm tốt được
-
+Chào mừng đến với trang web của mình.  
+Đây là nơi mình học về GitHub Pages.  
