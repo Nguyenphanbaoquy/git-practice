@@ -8,6 +8,5 @@ title: "Trang chính"
 Tạo thêm dòng.  
 Đọc thêm về GitHub.  
 Học GitHub Pages từng bước.  
-Đọc hiểu thêm về Page  
 
 
